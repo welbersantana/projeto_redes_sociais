@@ -14,8 +14,6 @@ body {
 	background: url("imagens/fundo-madeira.jpg") no-repeat top center;
 	background-size: cover;
 	background-attachment: fixed;
-	#overflow-y:hidden;
-	#overflow-x:hidden;
 }
 
 main {
